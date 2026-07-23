@@ -1,2 +1,2 @@
 # Student-Team-Repo
-This is to test Unito and connect to my Trello board
+This is to test Github power-up and connect to my Trello board
